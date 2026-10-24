@@ -1,0 +1,11 @@
+roll_no,student_name,Subject,Total Classes,Present,Absent,Excused,attendance_pct,Status,Classes Needed (75%),Last Present Date,Consecutive Absences,last_present_date,Attendance Category,Risk Score,Classes Needed (Numeric),Attendance Flag,Attendance Range,base_name
+4MW24CS071,LAXMEESH V,Data Science & GenAI - 3nd Yr - CSE - B,12,0,12,0,0.0,Critical,36 more,Never,12,,Poor,12.0,36,Defaulter,Critical,LAXMEESH
+4MW25CS405,MANYA PRARTHANA,Data Science & GenAI - 3nd Yr - CSE - B,12,0,12,0,0.0,Critical,36 more,Never,12,,Poor,12.0,36,Defaulter,Critical,MANYA
+4MW24CS107,PRATHAM G KUMAR,Data Science & GenAI - 3nd Yr - CSE - B,12,1,11,0,0.08,Critical,32 more,2026-09-18,5,2026-09-18,Poor,7.4,32,Defaulter,Critical,PRATHAM
+4MW24CS096,NITHIL SHETTY,Data Science & GenAI - 3nd Yr - CSE - B,12,1,11,0,0.08,Critical,32 more,2026-09-18,5,2026-09-18,Poor,7.4,32,Defaulter,Critical,NITHIL
+4MW24CS066,KOUSHTUBHA,Data Science & GenAI - 3nd Yr - CSE - B,12,1,11,0,0.08,Critical,32 more,2026-09-18,5,2026-09-18,Poor,7.4,32,Defaulter,Critical,KOUSHTUBHA
+4MW24CS110,PRATHWEESH,Data Science & GenAI - 3nd Yr - CSE - B,12,1,11,0,0.08,Critical,32 more,2026-09-18,5,2026-09-18,Poor,7.4,32,Defaulter,Critical,PRATHWEESH
+4MW24CS074,MAHALINGAPPA C,Data Science & GenAI - 3nd Yr - CSE - B,12,1,11,0,0.08,Critical,32 more,2026-09-22,4,2026-09-22,Poor,6.800000000000001,32,Defaulter,Critical,MAHALINGAPPA
+4MW24CS112,RAHUL,Data Science & GenAI - 3nd Yr - CSE - B,12,7,5,0,0.58,Critical,8 more,2026-09-29,2,2026-09-29,Poor,3.2,8,Defaulter,Warning,RAHUL
+4MW24CS090,NIKHIL NAIK,Data Science & GenAI - 3nd Yr - CSE - B,12,7,5,0,0.58,Critical,8 more,2026-10-09,0,2026-10-09,Poor,2.0,8,Defaulter,Warning,NIKHIL
+4MW24CS094,NISHA M B,Data Science & GenAI - 3nd Yr - CSE - B,12,10,2,0,0.83,Warning,✓ Met,2026-10-06,1,2026-10-06,Good,1.4,0,Safe,Good,NISHA
